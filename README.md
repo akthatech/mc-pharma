@@ -1,4 +1,4 @@
-# MediCore Pharma – Pharmaceutical Distribution Site
+# Vinca Life Sciences private limited – Pharmaceutical Distribution Site
 
 Demo website for a pharma medicine distributor, built with React Router **v8.5.1** (framework mode), TypeScript, Tailwind CSS v4 and shadcn/ui (Radix).
 

@@ -1,5 +1,5 @@
 export const company = {
-  name: "MediCore Pharma",
+  name: "Vinca Life Sciences private limited",
   tagline: "Reliable pharmaceutical distribution",
   address: "120 Healthway Boulevard, Suite 400, Springfield, IL 62701",
   phone: "+1 (555) 014-2200",
